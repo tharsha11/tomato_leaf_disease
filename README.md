@@ -1,11 +1,19 @@
 # tomato_leaf_disease
 **Title:** Tomato Leaf Detection Using Convolutional Neural Networks and Android Studio
+
 **Description:** In this project, we will explore the use of neural networks for tomato leaf detection. 
+
 **Team members details:**
-Talacheeru Harshavardhan
-Tadaka Saketh
-Pokala Vinay kumar
-Vangala Amulya
+
+Talacheeru Harshavardhan- harshavardhan.talacheeru@gmail.com
+
+Tadaka Saketh- 9921004706@klu.ac.in
+
+Pokala Vinay kumar- 9921004573@klu.ac.in
+
+Vangala Amulya- 99210041376@klu
+ac.in
+
 
 **The Problem It solves:**
 It helps to find the leaf diasese for tomato leaves in a easy and simple manner.'Tomato Leaf Detection Using Transfer Learning in TensorFlow's Convolutional Neural Networks.' Within this project, we've tapped into the realms of artificial intelligence and deep learning to confront a pivotal issue in agriculture – the detection of tomato leaf diseases. Utilizing the power of Transfer Learning in TensorFlow's Convolutional Neural Networks (CNN), we've established a robust system proficient in identifying prevalent tomato leaf diseases. This groundbreaking innovation holds the promise of transforming agricultural practices by enabling early disease detection, facilitating timely interventions, and ultimately augmenting crop yield. I'm excited to delve into the methodology, tools, results, and the profound significance of this project in tomorrow's presentation.
