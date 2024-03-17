@@ -11,8 +11,7 @@ Tadaka Saketh- 9921004706@klu.ac.in
 
 Pokala Vinay kumar- 9921004573@klu.ac.in
 
-Vangala Amulya- 99210041376@klu
-ac.in
+Vangala Amulya- 99210041376@klu.ac.in
 
 
 **The Problem It solves:**
